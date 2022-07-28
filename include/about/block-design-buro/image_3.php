@@ -1,0 +1,1 @@
+<img src="<?= SITE_TEMPLATE_PATH; ?>/img/about-design-office-image-3.png" alt="">

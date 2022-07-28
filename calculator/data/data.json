@@ -1,0 +1,587 @@
+{
+  "dataName": "calculator",
+  "author": "nasekinid",
+  "company": "dice",
+  "service_digital_printing": [
+    {
+      "name": "Цифровая печать визитки",
+      "usual_properties": [
+        {
+          "id": 0,
+          "name": "Плотность бумаги",
+          "values": [
+            {
+              "name": "300 г/м2 бумага полуглянц.",
+              "price": "6.5"
+            },
+            {
+              "name": "310 г/м2 картон полуглянц.",
+              "price": "6.5"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Размер листовки",
+          "values": [
+            {
+              "name": "90х50",
+              "price": "6.5"
+            },
+            {
+              "name": "85х55",
+              "price": "6.5"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Полноцветная печать",
+          "values": [
+            {
+              "name": "с одной стороны",
+              "price": "0"
+            },
+            {
+              "name": "с двух сторон",
+              "price": "3"
+            }
+          ]
+        }
+      ],
+      "quantity": [
+        {
+          "value": "100",
+          "coefficient": "0"
+        },
+        {
+          "value": "200",
+          "coefficient": "1.2"
+        },
+        {
+          "value": "500",
+          "coefficient": "1.45"
+        },
+        {
+          "value": "1000",
+          "coefficient": "1.1"
+        },
+        {
+          "value": "2000",
+          "coefficient": "2.6"
+        },
+        {
+          "value": "3000",
+          "coefficient": "3.95"
+        }
+      ],
+      "additional_properties": [
+        {
+          "value": "ламинация 32мкрн.",
+          "cost": "7"
+        },
+        {
+          "value": "ламинация 75мкрн.",
+          "cost": "15"
+        },
+        {
+          "value": "ламинация софт тач",
+          "cost": "15"
+        }
+      ]
+    },
+    {
+      "name": "Цифровая печать листовки",
+      "usual_properties": [
+        {
+          "id": 0,
+          "name": "Плотность бумаги",
+          "values": [
+            {
+              "name": "150 г/м2 бумага полуглянц.",
+              "price": "9"
+            },
+            {
+              "name": "200 г/м2 бумага полуглянц.",
+              "price": "13"
+            },
+            {
+              "name": "300 г/м2 бумага полуглянц.",
+              "price": "19"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Размер листовки",
+          "values": [
+            {
+              "name": "А6 148х105",
+              "price_one": "0",
+              "price_two": "0",
+              "price_three": "0"
+            },
+            {
+              "name": "А5 210х148",
+              "price_one": "9",
+              "price_two": "10",
+              "price_three": "15"
+            },
+            {
+              "name": "А4 297х210",
+              "price_one": "25",
+              "price_two": "35",
+              "price_three": "47"
+            },
+            {
+              "name": "А3 420х297",
+              "price_one": "55",
+              "price_two": "74",
+              "price_three": "112"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Полноцветная печать",
+          "values": [
+            {
+              "name": "с одной стороны",
+              "price": "0"
+            },
+            {
+              "name": "с двух сторон",
+              "price": "4"
+            }
+          ]
+        }
+      ],
+      "quantity": [
+        {
+          "value": "100",
+          "coefficient": "0"
+        },
+        {
+          "value": "200",
+          "coefficient": "1.6"
+        },
+        {
+          "value": "500",
+          "coefficient": "3.7"
+        },
+        {
+          "value": "1000",
+          "coefficient": "6"
+        },
+        {
+          "value": "2000",
+          "coefficient": "17"
+        }
+      ],
+      "additional_properties": [
+        {
+          "value": "ламинация 32мкрн.",
+          "cost": "9"
+        }
+      ]
+    },
+    {
+      "name": "Цифровая печать буклеты",
+      "usual_properties": [
+        {
+          "id": 0,
+          "name": "Плотность бумаги",
+          "values": [
+            {
+              "name": "150 г/м2 бумага полуглянц.",
+              "price": "25"
+            },
+            {
+              "name": "200 г/м2 бумага полуглянц.",
+              "price": "29"
+            },
+            {
+              "name": "300 г/м2 бумага полуглянц.",
+              "price": "47"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Размер листовки",
+          "values": [
+            {
+              "name": "А5 210х148 (развернутый)",
+              "price_one": "0",
+              "price_two": "0",
+              "price_three": "0"
+            },
+            {
+              "name": "А4 297х210 (развернутый)",
+              "price_one": "19",
+              "price_two": "24",
+              "price_three": "42"
+            },
+            {
+              "name": "А3 420х297 (развернутый)",
+              "price_one": "53",
+              "price_two": "64",
+              "price_three": "122"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Полноцветная печать",
+          "values": [
+            {
+              "name": "с двух сторон",
+              "price": "4"
+            }
+          ]
+        }
+      ],
+      "quantity": [
+        {
+          "value": "100",
+          "coefficient": "0"
+        },
+        {
+          "value": "200",
+          "coefficient": "1.9"
+        },
+        {
+          "value": "500",
+          "coefficient": "4"
+        },
+        {
+          "value": "1000",
+          "coefficient": "7.8"
+        },
+        {
+          "value": "2000",
+          "coefficient": "11"
+        }
+      ],
+      "additional_properties": []
+    },
+    {
+      "name": "Цифровая печать наклейки",
+      "usual_properties": [
+        {
+          "id": 0,
+          "name": "Материал наклеек",
+          "values": [
+            {
+              "name": "бумага самоклеящаяся",
+              "price": "250"
+            },
+            {
+              "name": "пленка самоклеящаяся",
+              "price": "350"
+            },
+            {
+              "name": "бесклеевая пленка",
+              "price": "500"
+            }
+          ]
+        }
+      ],
+      "quantity": [
+        {
+          "value": "10",
+          "coefficient": "0"
+        },
+        {
+          "value": "50",
+          "coefficient": "1.05"
+        },
+        {
+          "value": "100",
+          "coefficient": "1.15"
+        },
+        {
+          "value": "200",
+          "coefficient": "1.25"
+        },
+        {
+          "value": "500",
+          "coefficient": "1.38"
+        }
+      ],
+      "additional_properties": []
+    }
+  ],
+  "service_interior_printing": [
+    {
+      "name": "Интерьерная печать холст",
+      "material_types": [
+        "Холст натуральный",
+        "Холст тестовый"
+      ],
+      "floor_area_price": [
+        [
+          {
+            "meters": 10,
+            "price": 2500
+          },
+          {
+            "meters": 50,
+            "price": 2450
+          },
+          {
+            "meters": 100,
+            "price": 2400
+          }
+        ]
+      ],
+      "additional_properties": []
+    },
+    {
+      "name": "Интерьерная печать баннер",
+      "material_types": [
+        "баннер литой 510г/м2"
+      ],
+      "floor_area_price": [
+        [
+          {
+            "meters": 10,
+            "price": 1000
+          },
+          {
+            "meters": 50,
+            "price": 850
+          }
+        ]
+      ],
+      "additional_properties": [
+        {
+          "name": "Обработка люверсы",
+          "price": "200"
+        },
+        {
+          "name": "Обработка проклейка",
+          "price": "200"
+        }
+      ]
+    },
+    {
+      "name": "Интерьерная печать бумага постерная",
+      "material_types": [
+        "бумага постерная 135г/м2",
+        "бумага постерная 200г/м2",
+        "фотобумага 220г/м2"
+      ],
+      "floor_area_price": [
+        [
+          {
+            "meters": 10,
+            "price": 850
+          },
+          {
+            "meters": 50,
+            "price": 800
+          },
+          {
+            "meters": 100,
+            "price": 750
+          }
+        ],
+        [
+          {
+            "meters": 10,
+            "price": 900
+          },
+          {
+            "meters": 50,
+            "price": 850
+          },
+          {
+            "meters": 100,
+            "price": 800
+          }
+        ],
+        [
+          {
+            "meters": 10,
+            "price": 2500
+          },
+          {
+            "meters": 50,
+            "price": 2450
+          },
+          {
+            "meters": 100,
+            "price": 2400
+          }
+        ]
+      ],
+      "additional_properties": []
+    },
+    {
+      "name": "Интерьерная печать пленка самокл.",
+      "material_types": [
+        "пленка самокл. белая",
+        "пленка самокл. прозрачная",
+        "пленка самокл. легкосъемная",
+        "пленка светоблокирующая",
+        "пленка перфорированная",
+        "пленка пэт бесклеевая (серый задник)"
+      ],
+      "floor_area_price": [
+        [
+          {
+            "meters": 10,
+            "price": 1000
+          },
+          {
+            "meters": 50,
+            "price": 900
+          },
+          {
+            "meters": 100,
+            "price": 850
+          }
+        ],
+        [
+          {
+            "meters": 10,
+            "price": 1000
+          },
+          {
+            "meters": 50,
+            "price": 900
+          },
+          {
+            "meters": 100,
+            "price": 850
+          }
+        ],
+        [
+          {
+            "meters": 10,
+            "price": 1050
+          },
+          {
+            "meters": 50,
+            "price": 950
+          },
+          {
+            "meters": 100,
+            "price": 900
+          }
+        ],
+        [
+          {
+            "meters": 10,
+            "price": 1200
+          },
+          {
+            "meters": 50,
+            "price": 1150
+          },
+          {
+            "meters": 100,
+            "price": 1100
+          }
+        ],
+        [
+          {
+            "meters": 10,
+            "price": 2500
+          },
+          {
+            "meters": 50,
+            "price": 2450
+          },
+          {
+            "meters": 100,
+            "price": 2400
+          }
+        ],
+        [
+          {
+            "meters": 10,
+            "price": 1200
+          },
+          {
+            "meters": 50,
+            "price": 1150
+          },
+          {
+            "meters": 100,
+            "price": 1100
+          }
+        ]
+      ],
+      "additional_properties": [
+        {
+          "name": "плоттерная резка",
+          "price": "600",
+          "accessibility": [0, 1, 2]
+        },
+        {
+          "name": "ламинация",
+          "price": "400",
+          "accessibility": [0, 1, 2, 3]
+        },
+        {
+          "name": "выборка/монтажка",
+          "price": "800",
+          "accessibility": [0, 1, 2]
+        },
+        {
+          "name": "инверсия",
+          "price": "800",
+          "accessibility": [0, 1, 2, 3]
+        }
+      ]
+    },
+    {
+      "name": "Интерьерная печать пластик",
+      "material_types": [
+        "пленка с накаткой на пвх"
+      ],
+      "floor_area_price": [
+        [
+          {
+            "meters": 10,
+            "price": 4500
+          },
+          {
+            "meters": 50,
+            "price": 4300
+          },
+          {
+            "meters": 100,
+            "price": 4000
+          }
+        ]
+      ],
+      "additional_properties": []
+    },
+    {
+      "name": "Интерьерная печать бэклит",
+      "material_types": [
+        "бэклит 210мкрн."
+      ],
+      "floor_area_price": [
+        [
+          {
+            "meters": 10,
+            "price": 1200
+          },
+          {
+            "meters": 50,
+            "price": 1150
+          },
+          {
+            "meters": 100,
+            "price": 1100
+          }
+        ]
+      ],
+      "additional_properties": []
+    }
+  ]
+}
